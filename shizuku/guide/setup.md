@@ -1,4 +1,4 @@
-# User manual
+Isaac# User manual
 
 [[toc]]
 
